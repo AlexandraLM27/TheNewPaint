@@ -1,0 +1,17 @@
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.Form1.resources
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.Properties.Resources.resources
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.AssemblyInfo.cs
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\bin\Debug\net6.0-windows\TheNewPaint.exe
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\bin\Debug\net6.0-windows\TheNewPaint.deps.json
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\bin\Debug\net6.0-windows\TheNewPaint.runtimeconfig.json
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\bin\Debug\net6.0-windows\TheNewPaint.dll
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\bin\Debug\net6.0-windows\TheNewPaint.pdb
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.dll
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\refint\TheNewPaint.dll
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.pdb
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\TheNewPaint.genruntimeconfig.cache
+C:\Users\alisa\source\repos\TheNewPaint\TheNewPaint\obj\Debug\net6.0-windows\ref\TheNewPaint.dll
